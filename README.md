@@ -110,8 +110,8 @@ const riyaz = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=riyaz-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=riyaz-22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz-22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
