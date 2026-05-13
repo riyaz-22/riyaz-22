@@ -107,16 +107,28 @@ const riyaz = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=riyaz-22&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=riyaz-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz-22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaz-22&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyaz-22&theme=tokyo-night&hide_border=true&radius=16" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riyaz-22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riyaz-22&label=Profile+Views&color=7B68EE&style=for-the-badge" />
 </p>
 
 ---
