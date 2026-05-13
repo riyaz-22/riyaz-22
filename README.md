@@ -24,7 +24,7 @@ Building scalable web and cross-platform mobile applications.
 
 ---
 
-## 🚀 About Me
+## 🙂 About Me
 
 ```ts
 const riyaz = {
@@ -96,13 +96,13 @@ const riyaz = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=riyaz-22&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz-22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaz-22&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ const riyaz = {
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="blank">
+<a href="https://www.linkedin.com/in/riyazahmadj" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
@@ -118,17 +118,29 @@ const riyaz = {
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
+<a href="https://github.com/riyaz-22" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://instagram.com/riyaz_builds" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+
+<a href="https://x.com/riyaz_builds" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+
+<a href="https://www.fiverr.com/riyazahmadj" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" />
 </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=riyaz-22&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  Thanks for visiting my profile 🚀
+  Thanks for visiting my profile 🙂
 </p>
