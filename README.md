@@ -33,10 +33,9 @@ Building scalable web and cross-platform mobile applications.
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
 
-    <a href="https://riyaz-22.github.io/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://riyaz-22.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
-
 </p>
 
 <p align="center">
