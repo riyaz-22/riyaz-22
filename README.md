@@ -139,29 +139,31 @@ const riyaz = {
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/riyazahmadj" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="mailto:riyazofficial.222001@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/riyaz-22" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://instagram.com/riyaz_builds" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://x.com/riyaz_builds" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.fiverr.com/riyazahmadj" target="blank">
 <img align="center" src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" />
 </a>
+
 </p>
 
 ---
