@@ -127,10 +127,6 @@ const riyaz = {
   <img src="https://github-profile-trophy.vercel.app/?username=riyaz-22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riyaz-22&label=Profile+Views&color=7B68EE&style=for-the-badge" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -162,10 +158,6 @@ const riyaz = {
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riyaz-22&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   Thanks for visiting my profile 🙂
