@@ -37,7 +37,6 @@ Building scalable web and cross-platform mobile applications.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riyaz-22&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
----
 
 ## 🙂 About Me
 
