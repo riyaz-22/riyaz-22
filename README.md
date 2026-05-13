@@ -112,7 +112,9 @@ const riyaz = {
 <p align="center">
   <img height="170em"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riyaz-22&theme=tokyonight" />
+</p>
 
+<p align="center">
   <img height="170em"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riyaz-22&theme=tokyonight" />
 </p>
