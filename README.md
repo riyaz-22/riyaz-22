@@ -33,6 +33,10 @@ Building scalable web and cross-platform mobile applications.
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riyaz-22&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
 ---
 
 ## 🙂 About Me
