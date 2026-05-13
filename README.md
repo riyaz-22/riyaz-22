@@ -32,6 +32,11 @@ Building scalable web and cross-platform mobile applications.
   <a href="https://www.fiverr.com/riyazahmadj" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
+
+    <a href="https://riyaz-22.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
 </p>
 
 <p align="center">
@@ -86,20 +91,20 @@ const riyaz = {
 
 ## 📌 Featured Projects
 
-### 🔹 Lexifyd — Tamil Word Puzzle Platform
+### 🔹 [Lexifyd — Tamil Word Puzzle Platform](https://play.google.com/store/apps/details?id=com.maadhyamik.kanchi&pcampaignid=web_share)
 
 - Built using React Native Web + TypeScript
 - Optimized rendering performance
 - Firebase real-time synchronization
 - Lazy loading and code splitting
 
-### 🔹 Varta Keyboard — Chrome Extension
+### 🔹 [Varta Keyboard — Chrome Extension](https://chromewebstore.google.com/detail/varta-keyboard/efieebogipdgnfjpfkloplkjjbppmghk)
 
 - Supports 5+ Indian regional languages
 - <50ms response latency
 - 2,000+ active users
 
-### 🔹 Typing Tutor
+### 🔹 [Typing Tutor](https://typingtutor.maadhyamik.com/)
 
 - Real-time keystroke validation
 - Adaptive difficulty tracking
